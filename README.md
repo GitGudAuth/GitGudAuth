@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning bash shell and python
 - 🔭 I’m currently working on web server automating
-- 📫 How to reach me: t.me/tindpIT
+- 📫 How to reach me: [t.me/tindpIT](https://t.me/tindpIT)
 <!--
 **GitGudAuth/GitGudAuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
